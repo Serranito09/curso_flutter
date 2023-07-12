@@ -1,6 +1,14 @@
 # Learning Flutter with Fernando Herrera
 
-This repository contains my progress in the Flutter course taught by Fernando Herrera on Udemy.
+This repository contains my progress in the [Flutter course](https://www.udemy.com/course/flutter-cero-a-experto/) taught by Fernando Herrera on Udemy.
+
+## Table of Contents
+- [Description](#description)
+- [Contents](#contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Description
 
@@ -16,3 +24,15 @@ To run the applications in this repository, you will need to have Flutter instal
 
 Once you have Flutter installed, you can clone this repository and run the applications with the following command:
 
+
+## Usage
+
+To use the applications in this repository, navigate to the folder of the application you want to run and execute the `flutter run` command.
+
+## Contributing
+
+If you would like to contribute to this repository, please feel free to submit a pull request.
+
+## License
+
+This project is under the MIT license.
