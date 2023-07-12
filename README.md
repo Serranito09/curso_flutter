@@ -1,33 +1,18 @@
-# Curso de Flutter por Fernando Herrera
+# Learning Flutter with Fernando Herrera
 
-## Descripción
-Este es un curso completo de Flutter impartido por Fernando Herrera. En este curso, aprenderás todo lo que necesitas saber para crear aplicaciones móviles impresionantes con Flutter.
+This repository contains my progress in the Flutter course taught by Fernando Herrera on Udemy.
 
-## Contenido del curso
-1. Introducción a Flutter
-2. Configuración del entorno de desarrollo
-3. Widgets básicos en Flutter
-4. Diseño y layout en Flutter
-5. Navegación y rutas en Flutter
-6. Manejo de estado en Flutter
-7. Integración con APIs y servicios externos
-8. Desarrollo de aplicaciones completas
+## Description
 
-## Requisitos
-- Conocimientos básicos de programación
-- Una computadora con acceso a internet
+Flutter is a mobile application development SDK created by Google. With Flutter, you can create iOS and Android applications with a single codebase. In this course, I am learning the basics of Flutter and how to create mobile applications with this SDK.
 
-## Instrucciones de instalación
-1. Descarga e instala el SDK de Flutter desde la [página oficial](https://flutter.dev/docs/get-started/install)
-2. Configura tu editor de código favorito para trabajar con Flutter (se recomienda usar [Visual Studio Code](https://code.visualstudio.com/) o [Android Studio](https://developer.android.com/studio))
-3. Clona este repositorio en tu computadora
-4. Abre el proyecto en tu editor de código y ejecuta el comando `flutter pub get` para instalar las dependencias necesarias
+## Contents
 
-## Cómo usar este curso
-Para sacar el máximo provecho de este curso, se recomienda seguir los temas en el orden en que están presentados y completar los ejercicios y proyectos propuestos.
+This repository contains the source code of the applications I am creating during the course. Each application is located in its own folder.
 
-## Acerca del instructor
-Fernando Herrera es un desarrollador experimentado y un instructor reconocido en la comunidad de Flutter. Ha impartido varios cursos sobre desarrollo móvil y tiene una amplia experiencia en la creación de aplicaciones móviles con Flutter.
+## Installation
 
-## Licencia
-Este curso está bajo la licencia MIT.
+To run the applications in this repository, you will need to have Flutter installed on your computer. You can find instructions on how to install Flutter in the [official documentation](https://flutter.dev/docs/get-started/install).
+
+Once you have Flutter installed, you can clone this repository and run the applications with the following command:
+
