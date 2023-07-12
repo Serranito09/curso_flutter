@@ -1,3 +1,5 @@
+![Flutter to Mobile App.](./Flutter.png)
+
 # Learning Flutter 
 
 This repository contains my progress in the [Flutter course](https://www.udemy.com/course/flutter-cero-a-experto/) taught by Fernando Herrera on Udemy.
