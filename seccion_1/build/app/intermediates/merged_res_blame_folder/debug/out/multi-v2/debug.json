@@ -619,7 +619,7 @@
             "outputFile": "com.example.flutter_application_1.app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\alvar\\OneDrive\\Escritorio\\flutter_application_1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\alvar\\OneDrive\\Escritorio\\flutter\\seccion_1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -952,7 +952,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alvar\\OneDrive\\Escritorio\\flutter_application_1\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\alvar\\OneDrive\\Escritorio\\flutter\\seccion_1\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
